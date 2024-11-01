@@ -18,4 +18,4 @@
 **High-Resolution Image (`hr`)**:  
 ![Ground Truth](hr/014.jpg "Ground Truth")
 
-
+git remote set-url origin "https://github.com/Mithunprb/ML/Image-Stitching-GAN.git"
