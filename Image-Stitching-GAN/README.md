@@ -1,12 +1,12 @@
-### Panorama Image Generation Overview
+# Panorama Image Generation Overview
 
 #### Inputs
 
-**Low-Resolution Input 1 (`lr1`)**:  
-![Input 1](lr1/014.jpg "Low-Resolution Input 1")
+**Input 1 (`lr1`)**:  
+![Input 1](lr1/014.jpg "Input 1")
 
-**Low-Resolution Input 2 (`lr2`)**:  
-![Input 2](lr2/014.jpg "Low-Resolution Input 2")
+**L Input 2 (`lr2`)**:  
+![Input 2](lr2/014.jpg "Input 2")
 
 #### Generated Output
 
@@ -17,3 +17,7 @@
 
 **High-Resolution Image (`hr`)**:  
 ![Ground Truth](hr/014.jpg "Ground Truth")
+
+#### Presentation and Detailed Report
+
+[Image Stitching GAN Presentation](Image_Stitching_GAN.pdf)
