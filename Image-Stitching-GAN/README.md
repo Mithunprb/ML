@@ -3,10 +3,10 @@
 #### Inputs
 
 **Low-Resolution Input 1 (`lr1`)**:  
-![Low-Resolution Input 1](lr1/014.jpg "Low-Resolution Input 1")
+![Input 1](lr1/014.jpg "Low-Resolution Input 1")
 
 **Low-Resolution Input 2 (`lr2`)**:  
-![Low-Resolution Input 2](lr2/014.jpg "Low-Resolution Input 2")
+![Input 2](lr2/014.jpg "Low-Resolution Input 2")
 
 #### Generated Output
 
