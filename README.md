@@ -34,6 +34,18 @@ This repository contains multiple machine learning projects ranging from image p
 - **Description**: Develop a model to assist in risk assessment and premium calculation for auto insurance.
 - **Notebook**: [ML Model for Auto Insurance Industry Notebook](ML_model_for_Auto_Insurance_Industry/ml-model-for-auto-insurance-industry.ipynb)
 
+### 5. Super-Resolution and Low-Light Image Enhancement
+
+- **Description**: This repository focuses on two advanced image processing techniques. The first project enhances the resolution of images through super-resolution techniques, aiming to reconstruct a high-resolution image from its low-resolution counterpart. The second project improves the visibility and quality of images taken in low-light conditions using various enhancement algorithms. Both projects are designed to demonstrate the practical applications of these techniques in improving image quality for better analysis and visualization.
+- **Notebooks**:
+  - **Super-Resolution**: [Super-Resolution Notebook](SupRes_LowLightEnhance.SupRes.ipynb) showcases the method to enhance image resolution.
+  - **Low-Light Enhancement**: [Low-Light Enhancement Notebook](SupRes_LowLightEnhance/OutputLowLE.ipynb) demonstrates techniques to enhance images captured in poorly lit environments.
+- **Outputs and Figures**:
+  - **Super-Resolution Output**: Demonstrated in `SupRes_LowLightEnhance/output-super-res/SupRes-out.JPG`.
+  - **Low-Light Enhancement Outputs**: Available in the `SupRes_LowLightEnhance/output-low-light` directory with multiple enhanced examples.
+  - **Figures**: Visual results can be found in the `SupRes_LowLightEnhance/fig` directory illustrating the enhancements.
+- **Presentation**: Detailed insights and methodologies are discussed in [LowLight_SuperRes.pdf](SupRes_LowLightEnhance/LowLight_SuperRes.pdf), which includes a comprehensive presentation of the projects.
+
 ## Getting Started
 
 To get started with any of these projects, clone the repository, navigate to the project's directory, and open the Jupyter notebooks in a Jupyter environment:
@@ -43,3 +55,11 @@ git clone https://github.com/your-repo/ML.git
 cd ML/<project_directory>
 jupyter notebook <notebook_name>.ipynb
 ```
+
+## Contribution
+
+Contributions to improve the projects or add new features are welcome. Please fork the repository and submit a pull request with your changes.
+
+<!-- ## License
+
+The contents of this repository are covered under [MIT License](LICENSE). -->

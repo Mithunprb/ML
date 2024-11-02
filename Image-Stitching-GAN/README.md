@@ -1,11 +1,20 @@
 # Panorama Image Generation Overview
 
+#### Presentation and Detailed Report
+
+[Image Stitching GAN Presentation](Image_Stitching_GAN.pdf)
+
+## Figures
+
+![Generator Network](fig/Generator_net.png)
+![Discriminator Network](fig/Discriminator_net.png)
+
 #### Inputs
 
 **Input 1 (`lr1`)**:  
 ![Input 1](lr1/014.jpg "Input 1")
 
-**L Input 2 (`lr2`)**:  
+**Input 2 (`lr2`)**:  
 ![Input 2](lr2/014.jpg "Input 2")
 
 #### Generated Output
@@ -17,7 +26,3 @@
 
 **High-Resolution Image (`hr`)**:  
 ![Ground Truth](hr/014.jpg "Ground Truth")
-
-#### Presentation and Detailed Report
-
-[Image Stitching GAN Presentation](Image_Stitching_GAN.pdf)
